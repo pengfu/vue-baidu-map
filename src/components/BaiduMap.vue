@@ -5,16 +5,16 @@
 <style>
 </style>
 <script>
-    export default{
+    export default {
         data() {
             return {
                 _map: null,
-                _local : null,
+                _local: null,
             }
         },
         props: {
             id: {
-                type:String,
+                type: String,
                 default: 'allmap'
             }
         },
