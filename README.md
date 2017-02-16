@@ -4,8 +4,7 @@
 
 ## Usage
 
-The following is an example to show how it works with a search input to get
-position of every marker from the map in real-time.
+The following is an example to show how to get the postion of the mouse clicking area.
 
 ```vue
 <template>
